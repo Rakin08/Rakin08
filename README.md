@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanjim Mahmud Rakin
-- 👀 I’m interested in Artificial Intellegence and Web developing.
-- 🌱 I’m currently learning deep learning and reinforcement learning.
+- 👀 I’m interested in  the domains of Blockchain, Data Science and Networking,
+- 🌱 I’m currently working as a Network Engineer and pursuing my research in Blockchain domain.
 - 📫 You can contact me on email : tanjimrakin123456789@gmail.com
 
 <!---
