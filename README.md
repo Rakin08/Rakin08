@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tanjim Mahmud Rakin
-- 👀 I’m interested in  the domains of Blockchain, Data Science and Networking,
-- 🌱 I’m currently working as a Network Engineer and pursuing my research in Blockchain domain.
-- 📫 You can contact me on email : tanjimrakin123456789@gmail.com
+- 👀 I’m interested in  the domains of Blockchain, Data Science and Networking and Data-driven decision making.
+- 🌱 I’m currently working as a business development engineer and pursuing my research in Blockchain domain.
+- 📫 You can contact me on email : tanjimmahmudwork@gmail.com
 
 <!---
 Rakin08/Rakin08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
